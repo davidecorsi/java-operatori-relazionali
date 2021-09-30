@@ -10,5 +10,7 @@ public class Main {
 //		int eta = 22;
 //		boolean maggiorenne = eta >= 18;
 //		System.out.println(maggiorenne);
+		
+//		System.out.println('a' > 'B');
 	}
 }
